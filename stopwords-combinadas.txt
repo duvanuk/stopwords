@@ -992,6 +992,7 @@ didnt
 differ
 different
 differently
+digit
 directly
 dj
 dk
