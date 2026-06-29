@@ -1,5 +1,5 @@
 # ================================================================
-# LISTA DE CUENTAS BLOQUEADAS (DIDs)
+# SOSPECHA DE BOTS BLUESKY (DIDs)
 # ================================================================
 # Formato: Un DID por línea
 # Líneas que comienzan con # son ignoradas
@@ -239,6 +239,40 @@ did:plc:xgc3ikjrhcyl7kdl3w5clmx6
 did:plc:org2kndlro6i3trilvei4qw6
 did:plc:aym2rezywb6pxvseohhxqpde
 did:plc:67o6py4kzmrfbo3ckic46hv5
+did:plc:aj762dgtfstvv75foi66vgpc
+did:plc:w6dnsa2r723jroqcdbzz52cb
+did:plc:aa6b7qsj4vi7lsosupvaeanj
+did:plc:esa252efzgdl4xgmngi5eqzv
+did:plc:4m47c66cpwereuygypm547nx
+did:plc:5q3jbwjvy6f5sdclwjlhwern
+did:plc:5m3smj42p33tb2klw2ymywty
+did:plc:r5jql5ougxxqojev4vlrrbn4
+did:plc:3n33azwm6ow2f7efk6k5zzp3
+did:plc:mggabqcynxjgxi5as5kh2t5z
+did:plc:sayjsgtegxecpts24zu7klay
+did:plc:lt27k5tpdfutymuphjqopdrw
+did:plc:olls5wtbnd72obnc7mpskbvm
+did:plc:r6ya6ivbmtlk32wlkaggf2hp
+did:plc:jm7cj2x6ybu2vjtu6uq236du
+did:plc:iqghmu4td6xkxu5bwra2plg6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
