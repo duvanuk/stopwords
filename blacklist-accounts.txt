@@ -221,3 +221,10 @@ did:plc:qq356llabe3snpn5oib3err7
 did:plc:nkig7bclswpr6bjsjoek2mth
 did:plc:3qlksbdq2vli7xk4fwvcuqac
 did:plc:nkig7bclswpr6bjsjoek2mth
+did:plc:erp3tcdtkyzxgv7hsw25v4tb
+did:plc:gxrlqftqgorgz4quyyj22lov
+did:plc:enmwrxllhhxm4qgw4fg5oujs
+did:plc:aa6b7qsj4vi7lsosupvaeanj
+did:plc:5kw32zw77grfxwy3vdwtgggw
+did:plc:553eofo6hvuxcsxo7qfidxjs
+did:plc:bxbou45dh7mhgrkiefnp6jve
