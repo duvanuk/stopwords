@@ -263,14 +263,14 @@ social
 love
 trump
 game
-Social social
-Social social social
+social social
+social social social
 time
-Macro
-Issues 
-Finance
+macro
+issues 
+finance
 content
-Templates
+templates
 products
 cost
 prompts
