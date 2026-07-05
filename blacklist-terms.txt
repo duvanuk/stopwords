@@ -275,6 +275,7 @@ products
 cost
 prompts
 openhuman
+trending
 
 
 
