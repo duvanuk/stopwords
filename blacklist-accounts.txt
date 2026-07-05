@@ -499,7 +499,12 @@ did:plc:vvjwyekvehuoiwoj75gs4yiq
 did:plc:tkvqkqcl2ktsob27vo4kgg7w
 did:plc:bxpaash7iceqjiur5bt7xntr
 did:plc:5al5vq3sxnvqblpkknq3sifm
-
+did:plc:ibkalorxndz2r7lotcaars3h
+did:plc:uuykykkdbtq2plsexeztdhpf
+did:plc:ijk37u4wvtjo2pwmtcrchpkt
+did:plc:k7prnsxn4rjtm3jvktdjmz7l
+did:plc:kwsbp5maxamzb4pj4bvpaxky
+did:plc:cehs2x43qqdmbngwhw7a5r5b
 
 
 
