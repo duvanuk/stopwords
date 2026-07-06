@@ -234,8 +234,8 @@ banned
 oldaccountban
 bskybans
 via iembot
-Additional Details
-Here
+additional details
+here
 feed
 islands
 nowplaying
@@ -276,7 +276,15 @@ cost
 prompts
 openhuman
 trending
-
+email
+api
+database
+api database
+ollama
+business
+marketing
+post 
+reports
 
 
 
