@@ -289,7 +289,18 @@ service
 database service
 api database service
 support
-
+question
+answered
+person
+art
+bad
+night
+care
+lot
+read
+fuck
+talk
+card
 
 
 
