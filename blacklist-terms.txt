@@ -315,6 +315,10 @@ sales
 dashboard
 launched
 products
+scripts prompts
+dashboard day
+prompts notions
+notion dashboard
 
 
 
