@@ -323,6 +323,12 @@ message
 notion
 launched products
 products launch
+prompts notion
+day playbook
+sell
+playbook
+scripts prompts notion 
+prompts notion dashboard
 
 
 
