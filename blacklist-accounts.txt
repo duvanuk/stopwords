@@ -659,7 +659,8 @@ did:plc:rfwkfzwdaqvzqc5hu2qpkctr
 did:plc:2nufteih7hvz7wcucxr2poxa
 did:plc:5e3j6lkqchpljgsewu36biah
 did:plc:mkyd6gtgl6ekjjwgrcf2jqzb
-
+did:plc:3uvrjddd7tabm4reite53662
+did:plc:a3ul5q5rkrk4im4sesowx4b3
 
 
 
