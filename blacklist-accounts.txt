@@ -1108,7 +1108,13 @@ did:plc:pk7s4s3bvy522i3zqxl3n6yl
 did:plc:h4ghqwjkfwj3mbv7inmf3de2
 did:plc:r4uju22swmecy7tmxuo2aneo
 did:plc:o7qfk2jkmkpbyjdj2ygmn35o
-
+did:plc:o2zuzbahlwnoxnfekt6ejvyi
+did:plc:6flkd5j7g3dba66b6ao7eoju
+did:plc:putxyflyd6pc57rqt6576lln
+did:plc:4wianc4cqgtluv4gjhvgaths
+did:plc:ynoxjtmmonhb4lgvh5smjq3p
+did:plc:qvwksl25sv5itiflfwuhojnf
+did:plc:kzgqlatxbra4gnnm4kn3dmkf
 
 
 
