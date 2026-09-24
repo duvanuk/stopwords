@@ -1138,6 +1138,16 @@ did:plc:vuzs7jxarg2rqw6lgu6yrgqj
 did:plc:gfbcxy2f6rmyku6fdwmhct7b
 did:plc:6w3kjcciwqifbfcyqnrddoda
 did:plc:5kbvyw5nzzstf7rkqyivnjms
+did:plc:rcizb7dtzyjtkvjgs4iwwfio
+did:plc:qm5ivgnwpgatixgvuix6lar2
+did:plc:yuhmknyawlfspsxmju672zfs
+did:plc:sxgp5ntviizefohb4kuh3ydp
+did:plc:bcd4l7jlkixa7svv6x3rutfd
+did:plc:pzt2hepn3ta77cjehoyec6xn
+did:plc:qnzaaisqa3lafzmtjxt5nt52
+did:plc:l4ri4xjdgjyxwxh3yzpxii7m
+did:plc:bx567jjp7xwkpiiqwnve7l4j
+did:plc:xze7ziph5yu5lvwlloxirzvo
 
 
 
